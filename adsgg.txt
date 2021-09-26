@@ -9,7 +9,7 @@
 !
 !
 ! Source name: minhhungtsbd.me
-! Source: https://raw.githubusercontent.com/minhhungtsbd/minhhungtsbd/main/ggads.txt
+! Source: https://raw.githubusercontent.com/minhhungtsbd/minhhungtsbd/main/adsgg.txt
 !
 !
 ! Section contains list of advertising networks
