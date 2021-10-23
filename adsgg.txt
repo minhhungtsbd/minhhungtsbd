@@ -19,3 +19,4 @@
 ||tpc.googlesyndication.com^
 ||securepubads.g.doubleclick.net^
 ||googleads.g.doubleclick.net^
+||i0.wp.com^
