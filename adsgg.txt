@@ -20,3 +20,14 @@
 ||securepubads.g.doubleclick.net^
 ||googleads.g.doubleclick.net^
 ||i0.wp.com^
+||tonec.com^
+||www.tonec.com^
+||registeridm.com^
+||www.registeridm.com^
+||secure.registeridm.com^
+||internetdownloadmanager.com^
+||www.internetdownloadmanager.com^
+||secure.internetdownloadmanager.com^
+||mirror.internetdownloadmanager.com^
+||mirror2.internetdownloadmanager.com^
+||mirror3.internetdownloadmanager.com^
